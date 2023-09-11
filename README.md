@@ -1,4 +1,4 @@
-App Gestão de Vendas
+# App Gestão de Vendas
 
 Este projeto é um sistema feito utilizando a linguagem PHP, o Framework Laravel e o banco de dados MySQL para a gestão de vendas realizadas.
 
