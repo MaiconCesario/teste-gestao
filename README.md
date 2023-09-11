@@ -2,13 +2,14 @@
 
 Este projeto é um sistema feito utilizando a linguagem PHP, o Framework Laravel e o banco de dados MySQL para a gestão de vendas realizadas.
 
-Rotas: 
+Principais Rotas: 
 
-login
-app/vendedor
-app/vendedor/{id}
-app/vendedor/{id}/edit
-app/vendas/create
+- login
+- app/vendedor
+- app/vendedor/create
+- app/vendedor/{id}
+- app/vendedor/{id}/edit
+- app/vendas/create
 
 A primeira rota a ser acessada é a de “login”, isso porque as demais rotas estão protegidas por um middleware, sendo necessária a realização de autenticação antes de acessá-las. Poderá utilizar o seguinte usuário para logar no sistema:
 Usuário: “teste@teste.com”
